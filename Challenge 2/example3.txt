@@ -1,0 +1,4 @@
+3, 9, 20
+F.XXXXX.W
+F..TTT..W
+F.XXXXX.W
